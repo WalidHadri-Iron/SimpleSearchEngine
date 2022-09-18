@@ -1,4 +1,4 @@
-# BNP ChatBot
+# BNP Search Engine
 
 ## 1 . Setting up the back
 
