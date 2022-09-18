@@ -1,0 +1,3 @@
+{"path_excel_file":"Controls_dictionnary_202110_A.xlsx", 
+    "split_columns": ["Regulator", "Key words", "Upstream system", "Main fields name"],
+    "exclude":["LINK"]}

@@ -1,0 +1,3 @@
+{"path_database":"control.sqlite", 
+    "split_columns": ["Regulator", "Key words", "Upstream system", "Main fields name"],
+    "exclude":["LINK"]}
